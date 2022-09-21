@@ -1,0 +1,14 @@
+.btn {
+  border: 2px solid #db1c48;
+  background-color: transparent;
+  color: #db1c48;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 18px;
+  margin: 30px;
+}
+.btn-cilicked {
+  color: white;
+  background-color: #db1c48;
+}
